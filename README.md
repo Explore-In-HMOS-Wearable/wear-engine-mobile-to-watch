@@ -7,12 +7,9 @@ Secure peer-to-peer communication between Android devices and Huawei wearables.
 Demonstrates message transmission, file transfer, and device management using Wear Engine SDK.
 
 # Preview
-<div>
-    <img src="./screenshots/preview_01.png" width="24%">
-    <img src="./screenshots/preview_02.png" width="24%">
-    <img src="./screenshots/preview_03.png" width="24%">
-    <img src="./screenshots/preview_04.png" width="24%">
-</div>
+
+| ![image_1](./screenshots/preview_01.png) | ![image_2](./screenshots/preview_02.png) | ![image_3](./screenshots/preview_03.png) | ![image_4](./screenshots/preview_04.png) |
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
 
 # Use Cases
 - Send secure messages between phone and watch
